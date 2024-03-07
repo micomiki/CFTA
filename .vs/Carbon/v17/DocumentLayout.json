@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mico\\source\\repos\\Carbon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\dataentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\dataentry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|c:\\users\\mico\\source\\repos\\carbon\\carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\content\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\content\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\managelogins.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\managelogins.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\scripts\\jquery-3.4.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\scripts\\jquery-3.4.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\managepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\managepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\addphonenumber.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\addphonenumber.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\dataentry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\dataentry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\datahistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\datahistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\datahistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\datahistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\openauthproviders.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\openauthproviders.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|C:\\Users\\Mico\\source\\repos\\Carbon\\carbon\\account\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD388243-3259-4FE3-B887-6D37EB8C1992}|Carbon\\Carbon.csproj|solutionrelative:carbon\\account\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB0qQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:57.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA5vgEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "Carbon\\Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "Carbon\\Content\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACSLgMA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:50.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACHEgMA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:48.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Site.Master",
+              "RelativeDocumentMoniker": "Carbon\\Site.Master",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Site.Master",
+              "RelativeToolTip": "Carbon\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-26T20:15:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataEntry.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataEntry.aspx",
+              "RelativeDocumentMoniker": "Carbon\\DataEntry.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataEntry.aspx",
+              "RelativeToolTip": "Carbon\\DataEntry.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-01T16:11:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Carbon\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "Carbon\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABp+gEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "Carbon\\Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "Carbon\\Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAc+gEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADsvQEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:45.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Carbon\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Carbon\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACOLgMA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:38.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Carbon\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgmgIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T19:34:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Login.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\Login.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Login.aspx",
+              "RelativeToolTip": "Carbon\\Account\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-26T20:40:32.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Register.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\Register.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Register.aspx",
+              "RelativeToolTip": "Carbon\\Account\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T07:03:29.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manage.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Manage.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\Manage.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Manage.aspx",
+              "RelativeToolTip": "Carbon\\Account\\Manage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-02T15:30:25.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "jquery-3.4.1.js",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Scripts\\jquery-3.4.1.js",
+              "RelativeDocumentMoniker": "Carbon\\Scripts\\jquery-3.4.1.js",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Scripts\\jquery-3.4.1.js",
+              "RelativeToolTip": "Carbon\\Scripts\\jquery-3.4.1.js",
+              "ViewState": "AQIAAFAnAAAAAAAAAAAAwF0nAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-02T21:32:49.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "Carbon\\assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\js\\main.js*",
+              "RelativeToolTip": "Carbon\\assets\\js\\main.js*",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAuwM4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-02T21:31:35.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageLogins.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\ManageLogins.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\ManageLogins.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\ManageLogins.aspx",
+              "RelativeToolTip": "Carbon\\Account\\ManageLogins.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-02T15:30:36.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagePassword.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\ManagePassword.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\ManagePassword.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\ManagePassword.aspx",
+              "RelativeToolTip": "Carbon\\Account\\ManagePassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T07:43:48.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddPhoneNumber.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\AddPhoneNumber.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\AddPhoneNumber.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\AddPhoneNumber.aspx",
+              "RelativeToolTip": "Carbon\\Account\\AddPhoneNumber.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T10:12:31.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataEntry.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataEntry.aspx.cs",
+              "RelativeDocumentMoniker": "Carbon\\DataEntry.aspx.cs",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataEntry.aspx.cs",
+              "RelativeToolTip": "Carbon\\DataEntry.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:14:51.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataHistory.aspx",
+              "RelativeDocumentMoniker": "Carbon\\DataHistory.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataHistory.aspx",
+              "RelativeToolTip": "Carbon\\DataHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-01T16:37:39.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataHistory.aspx.cs",
+              "RelativeDocumentMoniker": "Carbon\\DataHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\DataHistory.aspx.cs",
+              "RelativeToolTip": "Carbon\\DataHistory.aspx.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:38:19.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Carbon\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Site.Master.cs",
+              "RelativeToolTip": "Carbon\\Site.Master.cs",
+              "ViewState": "AQIAADQAAAAAzczMzMwiwEgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:29:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Carbon\\Account\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Login.aspx.cs",
+              "RelativeToolTip": "Carbon\\Account\\Login.aspx.cs",
+              "ViewState": "AQIAABoAAAAAzczMzMwEwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:45:34.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OpenAuthProviders.ascx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\OpenAuthProviders.ascx",
+              "RelativeDocumentMoniker": "Carbon\\Account\\OpenAuthProviders.ascx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\OpenAuthProviders.ascx",
+              "RelativeToolTip": "Carbon\\Account\\OpenAuthProviders.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-03-03T09:00:50.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Carbon\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Content\\Site.css",
+              "RelativeToolTip": "Carbon\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-02T09:44:10.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "Carbon\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\assets\\css\\style.css",
+              "RelativeToolTip": "Carbon\\assets\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0FAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-26T20:34:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Default.aspx",
+              "RelativeDocumentMoniker": "Carbon\\Default.aspx",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Default.aspx",
+              "RelativeToolTip": "Carbon\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-26T20:12:37.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Carbon\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Default.aspx.cs",
+              "RelativeToolTip": "Carbon\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:12:45.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Carbon\\Account\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Mico\\source\\repos\\Carbon\\Carbon\\Account\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Carbon\\Account\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAmpmZmZkhwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:57:00.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
